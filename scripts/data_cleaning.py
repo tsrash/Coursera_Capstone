@@ -1,1 +1,3 @@
-cases = [12,20,50,3500]
+import pandas as pd
+import numpy as np
+printf("Hello Capstone Project Course!")
